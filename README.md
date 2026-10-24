@@ -31,3 +31,24 @@ Ingeniería en Sistemas Computacionales
 Universidad Tecnológica de Panamá
 
 Proyecto académico incluido en un portafolio profesional.
+## Resultados de la simulación
+
+El modelo permite analizar cómo disminuye la temperatura del café a medida que transcurre el tiempo. Según el modelo, el café alcanza una temperatura de 65 °C o menos al minuto entero 17.
+
+### Gráfica del proyecto
+
+![Gráfica del enfriamiento del café](lab01_cafe.png)
+
+## Cómo ejecutar el proyecto
+
+1. Tener Python instalado.
+2. Instalar las bibliotecas necesarias con `pip install numpy matplotlib`.
+3. Descargar el archivo `lab01_esqueleto_corregido.py`.
+4. Ejecutar el programa en un entorno de Python.
+
+## Competencias demostradas
+
+- Programación en Python.
+- Aplicación de modelos matemáticos.
+- Análisis y visualización de datos.
+- Resolución de problemas mediante herramientas informáticas.
